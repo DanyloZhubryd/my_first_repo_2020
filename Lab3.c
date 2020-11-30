@@ -29,5 +29,6 @@ int main()
 	printf("%s\n", str);
 	SPACE_ERASER(str, str2);
 	printf("Result 2: %s\n", str2);
+	printf("Hello everyone!");
 }
 
